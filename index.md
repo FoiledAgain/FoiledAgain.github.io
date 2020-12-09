@@ -11,3 +11,10 @@ I can make an non-ordered list:
 I can make an ordered list:
 1. this is the first thing
 1. this is the second
+
+ **I can bold things too**
+ 
+ I am going to add a figure here from the web:
+ 
+ !(this is alt text )https://illinois.edu/assets/img/branding/wordmark_vertical.png
+ 
