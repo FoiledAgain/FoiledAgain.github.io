@@ -16,5 +16,5 @@ I can make an ordered list:
  
  I am going to add a figure here from the web:
  
- !(this is alt text )(https://illinois.edu/assets/img/branding/wordmark_vertical.png)
+ !()(https://illinois.edu/assets/img/branding/wordmark_vertical.png)
  
